@@ -18,8 +18,6 @@ sudo apt install tor
 
 ## اجرا
 
-```bash
-python3 tor_ir.py
-```
+```bash <(curl -Ls https://raw.githubusercontent.com/mahdish45/Tor-IR/main/install.sh)```
 
 > توجه: برای عملکرد صحیح نیاز به دسترسی sudo دارید.
